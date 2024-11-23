@@ -3,7 +3,7 @@
 ## Set bigger "TTY-Fonts", "consolefonts" 
 
 * **Scope of Work:** Setup bigger fonts for TTY.
-* **Merit to:** [Linux Mench](https://www.youtube.com/watch?v=75TzZj81yaQ&ab_channel=LinuxMench), [byte & thisoldman](https://bbs.archlinux.org/viewtopic.php?id=82240)
+* **Merit to:** [Linux Mench](https://www.youtube.com/watch?v=75TzZj81yaQ&ab_channel=LinuxMench), [byte & thisoldman](https://bbs.archlinux.org/viewtopic.php?id=82240) ➕ [Archlinux-Wiki-console](https://wiki.archlinux.org/title/Linux_console).
 * This work is tailored to Archlinux-like OS but apply to every other Linux too.
 * Motivation: By switching to TTY or during boot you have to small fonts & hence cannot read it at all and/or to small for your display/monitor.
 
